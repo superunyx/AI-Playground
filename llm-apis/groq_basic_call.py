@@ -1,5 +1,3 @@
-"""Basic LLM API call using the Groq SDK."""
-
 import os
 from dotenv import load_dotenv
 from groq import Groq
