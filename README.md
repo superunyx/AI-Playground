@@ -1,5 +1,7 @@
 # AI Playground
 
+Personal repository used for learning and implementing practical AI projects and concepts.
+
 A personal collection of small, reusable AI code snippets, experiments, and reference scripts.
 
 Instead of searching through old tutorials, bookmarks, or API documentation every time, this repository serves as a tested, self-contained reference library—covering LLM API calls, prompt patterns, structured outputs, and practical integrations ready to be dropped into future projects.
