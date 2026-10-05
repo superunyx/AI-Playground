@@ -1,3 +1,6 @@
+## basic program to count respons tokens count them and see how total 
+## tokens are counted and also how to limit them using max_tokens
+
 import os
 from pathlib import Path
 from dotenv import load_dotenv
